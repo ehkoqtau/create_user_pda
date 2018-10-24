@@ -1,0 +1,10 @@
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Debug\STORE.exe
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Debug\STORE.pdb
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.Form1.resources
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.Properties.Resources.resources
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.csproj.GenerateResource.cache
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.csproj.CoreCompileInputs.cache
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.exe
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.pdb
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.csprojAssemblyReference.cache
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Debug\STORE.exe.config
