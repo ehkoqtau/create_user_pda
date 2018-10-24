@@ -108,8 +108,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="16473376_1764172053608460_8535633268166951430_n_msD_icon.ico" />
-    <Content Include="16473376_1764172053608460_8535633268166951430_n_RZ5_icon.ico" />
-    <Content Include="16473376_1764172053608460_8535633268166951430_n_ufO_icon.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">

@@ -8,3 +8,6 @@ C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.exe
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.pdb
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.csprojAssemblyReference.cache
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Debug\STORE.exe.config
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Debug\STORE.csproj.CopyComplete
