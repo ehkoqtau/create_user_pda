@@ -1,13 +1,9 @@
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Release\STORE.exe.config
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Release\STORE.exe
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Release\STORE.pdb
+C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.Form1.resources
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.Properties.Resources.resources
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.csproj.GenerateResource.cache
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.csproj.CoreCompileInputs.cache
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.exe
 C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.pdb
-C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.csprojAssemblyReference.cache
-C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Release\STORE.exe.config
-C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.Form1.resources
-C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Release\Newtonsoft.Json.dll
-C:\Users\Eko Setiawan\source\repos\STORE\STORE\bin\Release\Newtonsoft.Json.xml
-C:\Users\Eko Setiawan\source\repos\STORE\STORE\obj\Release\STORE.csproj.CopyComplete
